@@ -1,0 +1,9 @@
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.frmAgenda.resources
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.frmPrincipal.resources
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.Properties.Resources.resources
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.csproj.GenerateResource.Cache
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.exe
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.pdb
+C:\EstudoCSharp\ProjetoAgendaTelefonica\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
